@@ -1,0 +1,62 @@
+Preference d'agent 
+les Contrôleurs,
+- Astra :49.6%
+- Omen  : 48.9%
+- Brimstone : 50.3%
+- Viper : 49.3%
+- Harbor : 46.5% 
+
+
+les Duellistes, 
+-Jett : 49.8%
+-Iso : 46.3%
+-Neon : 48.1%
+-Phoenix : 50.2%
+-Reyna : 50.4%
+-Raze : 49.3%
+-Yoru : 47.1%
+
+les Initiateurs 
+- Skye : 49.1%
+- Gekko : 49.5%
+- Kayo : 45.9%
+- Sova : 49.5%
+- Fade :  49.0%
+- Breach : 48.6%
+
+les Sentinelles:
+- Cypher : 50.0%
+- Chamber : 48.8%
+- Deadlock : 49.0%
+- KillJoy: 49.8%
+- Sage: 50.0%
+
+
+
+POUR UN JOUEUR : 
+- Preference de type d'agent 
+- KDA 
+- WR sur la map 
+- WR 
+TYPE : 
+Pistol = 800
+Eco : 0 - 1000
+Semi: $ 1000-3900
+Full : >= $3900
+
+
+Eco Valorant : 
+
+- START +800
+- WIN +3000
+- 1er Loose : +1900 
+- 2eme Loose : +2400
+- 3eme Loose : + 2900
+
+variable Unifore : 
+
+X1 = kda x rd.random()
+
+X2 = kda x rd.random()
+
+ganant = valeur max de X1 et X2

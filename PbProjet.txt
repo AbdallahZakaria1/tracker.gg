@@ -1,0 +1,15 @@
+-Recuperer les pseudos avec des caractéres non "utf-8" 
+
+- Comment optimisé mais recket serveur pour eviter un reffus d'acces au serveur:
+-> DATA PLAYER : ne change pas trop 1/semaine 27h de recket : 
+-> LE classement change sensiblement toute les 24h : changement juste de l'ordre des donnes
+
+- p/j = 100 recket 17 minute de recket LUNDI - VENDREDI
+ 
+- p/s = 10000 recket -> 28h 
+
+- faire tourné le code sur un serveur:
+- affiché les resultats sur une page web
+
+Tache qui manque : 
+overTime
